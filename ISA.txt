@@ -1,0 +1,12 @@
+Instructions
+===================================
+ADD reg1, reg2, reg3	-> reg1 = reg2 + reg3
+SUB reg1, reg2, reg3 	-> reg1 = reg2 - reg3 
+POP reg1 		-> reg1 = [SP]
+PUSH reg1		-> [SP] = 
+LW reg1 reg2 		-> 
+SW reg1 reg2 		-> 
+JZ reg1 reg2 		-> if(reg==0) PC = reg2
+
+Memory
+===================================
